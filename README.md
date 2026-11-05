@@ -8,8 +8,7 @@
 
 ## 软件截图
 
-<img width="404" height="710" alt="image" src="https://github.com/user-attachments/assets/242cc794-f39e-4f3d-af09-d30757b694bd" />
-
+<img width="414" height="711" alt="主界面截图" src="https://github.com/user-attachments/assets/4a6e9982-9a8a-44c6-b242-86f17ec82471" />
 
 ## 下载使用
 
